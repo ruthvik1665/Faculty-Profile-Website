@@ -1,0 +1,42 @@
+/* styles.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.login-box {
+    border: 10px solid rgb(128, 0, 15);
+    border-color: #800000;
+    background: white;
+    padding: 1rem;
+    width: 40%;
+    border-radius: 0;
+}
+
+.login-box h2 {
+    margin-bottom: 1rem;
+    color: black;
+}
+
+.form-control {
+    width: 100%;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.btn-login {
+    cursor: pointer;
+    background-color: #800000;
+    border: 0;
+    color: white;
+}
+
+.btn-register {
+    cursor: pointer;
+    background-color: #800000;
+    border: none;
+    color: white;
+}

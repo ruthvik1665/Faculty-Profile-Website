@@ -1,0 +1,10 @@
+.elements button{
+    align-items: center;
+    margin-top: "40px";
+}
+
+
+.elements button{
+    margin-top: "40px";
+    gap: 50px;
+}

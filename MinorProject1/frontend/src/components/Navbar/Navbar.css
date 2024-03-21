@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #a33232;
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+  }
+
+a{
+    color: white;
+}
+

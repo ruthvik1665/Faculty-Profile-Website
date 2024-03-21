@@ -1,0 +1,25 @@
+.containerofp {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    width: 100%;
+    height: 500px;
+    border: '1px solid black'
+}
+
+h1 {
+    color: #800000;
+}
+
+h4 {
+    color: #800000;
+}
+
+.container1 img{
+    width: 500px;
+    margin-left: 100px;
+}
+
+.container2{
+    text-align: left;
+}
